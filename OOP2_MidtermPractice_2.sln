@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2_MidtermPractice_2", "OOP2_MidtermPractice_2\OOP2_MidtermPractice_2.csproj", "{957C9BB8-E8AE-4291-B986-D3C0E9747F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957C9BB8-E8AE-4291-B986-D3C0E9747F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957C9BB8-E8AE-4291-B986-D3C0E9747F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957C9BB8-E8AE-4291-B986-D3C0E9747F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957C9BB8-E8AE-4291-B986-D3C0E9747F04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
