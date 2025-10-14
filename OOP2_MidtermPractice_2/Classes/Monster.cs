@@ -2,12 +2,15 @@ namespace OOP2_MidtermPractice_2.Classes;
 
 public class Monster
 {
+    public static Random random = new Random();
+    
     private string name;
     private int hp;
     private int damage;
     private ConsoleColor txt_color;
     private string txt_crit;
     private string txt_KO;
+    private int crit_hit;
     private Monster target;
 
     public Monster Target { get { return target; } set { target = value; } }
@@ -29,6 +32,17 @@ public class Monster
     }
 
     public Monster(string name, int hp, int damage, ConsoleColor txt_color, string txt_crit, string txt_KO)
+    private int crit_dmg {
+        get {return  }
+    };
+    
+
+    public bool IsDead()
+    {
+        return  this.hp <= 0;
+    }
+    
+    public Monster(string name, int hp, int damage)
     {
         this.name = name;
         this.hp = hp;
