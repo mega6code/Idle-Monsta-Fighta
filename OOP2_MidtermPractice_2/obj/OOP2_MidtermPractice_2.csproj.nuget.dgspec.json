@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/mega6/CodingStuffs/SchoolStufff/OOP2_MidtermPractice_2/OOP2_MidtermPractice_2/OOP2_MidtermPractice_2.csproj": {}
+    "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj": {}
   },
   "projects": {
-    "/home/mega6/CodingStuffs/SchoolStufff/OOP2_MidtermPractice_2/OOP2_MidtermPractice_2/OOP2_MidtermPractice_2.csproj": {
+    "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mega6/CodingStuffs/SchoolStufff/OOP2_MidtermPractice_2/OOP2_MidtermPractice_2/OOP2_MidtermPractice_2.csproj",
+        "projectUniqueName": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj",
         "projectName": "OOP2_MidtermPractice_2",
-        "projectPath": "/home/mega6/CodingStuffs/SchoolStufff/OOP2_MidtermPractice_2/OOP2_MidtermPractice_2/OOP2_MidtermPractice_2.csproj",
-        "packagesPath": "/home/mega6/.nuget/packages/",
-        "outputPath": "/home/mega6/CodingStuffs/SchoolStufff/OOP2_MidtermPractice_2/OOP2_MidtermPractice_2/obj/",
+        "projectPath": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj",
+        "packagesPath": "C:\\Users\\mega6_2zcsbcp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/mega6/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mega6_2zcsbcp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/mega6/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
