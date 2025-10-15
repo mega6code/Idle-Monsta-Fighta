@@ -1,0 +1,5 @@
+C:\Users\mega6_2zcsbcp\Documents\GitHub\OOP2_MidtermPractice_2_2\OOP2_MidtermPractice_2\obj\Debug\net9.0\OOP2_MidtermPractice_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mega6_2zcsbcp\Documents\GitHub\OOP2_MidtermPractice_2_2\OOP2_MidtermPractice_2\obj\Debug\net9.0\OOP2_MidtermPractice_2.AssemblyInfoInputs.cache
+C:\Users\mega6_2zcsbcp\Documents\GitHub\OOP2_MidtermPractice_2_2\OOP2_MidtermPractice_2\obj\Debug\net9.0\OOP2_MidtermPractice_2.AssemblyInfo.cs
+C:\Users\mega6_2zcsbcp\Documents\GitHub\OOP2_MidtermPractice_2_2\OOP2_MidtermPractice_2\obj\Debug\net9.0\OOP2_MidtermPractice_2.csproj.CoreCompileInputs.cache
+C:\Users\mega6_2zcsbcp\Documents\GitHub\OOP2_MidtermPractice_2_2\OOP2_MidtermPractice_2\obj\Debug\net9.0\OOP2_MidtermPractice_2.sourcelink.json

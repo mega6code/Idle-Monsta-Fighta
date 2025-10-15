@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP2_MidtermPractice_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d8be70c00ef2782380dd1438a2b910594f908c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb4f6ea1b43c4c9e91bbd6c85a4fb19bc63c7433")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP2_MidtermPractice_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP2_MidtermPractice_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

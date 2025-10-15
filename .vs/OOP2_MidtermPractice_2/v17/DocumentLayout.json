@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|c:\\users\\mega6_2zcsbcp\\documents\\github\\oop2_midtermpractice_2_2\\oop2_midtermpractice_2\\classes\\random2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|solutionrelative:oop2_midtermpractice_2\\classes\\random2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|c:\\users\\mega6_2zcsbcp\\documents\\github\\oop2_midtermpractice_2_2\\oop2_midtermpractice_2\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|solutionrelative:oop2_midtermpractice_2\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|c:\\users\\mega6_2zcsbcp\\documents\\github\\oop2_midtermpractice_2_2\\oop2_midtermpractice_2\\classes\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|solutionrelative:oop2_midtermpractice_2\\classes\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|solutionrelative:oop2_midtermpractice_2\\classes\\monstergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|c:\\users\\mega6_2zcsbcp\\documents\\github\\oop2_midtermpractice_2_2\\oop2_midtermpractice_2\\classes\\randomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|solutionrelative:oop2_midtermpractice_2\\classes\\randomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|c:\\users\\mega6_2zcsbcp\\documents\\github\\oop2_midtermpractice_2_2\\oop2_midtermpractice_2\\classes\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|solutionrelative:oop2_midtermpractice_2\\classes\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|c:\\users\\mega6_2zcsbcp\\documents\\github\\oop2_midtermpractice_2_2\\oop2_midtermpractice_2\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957C9BB8-E8AE-4291-B986-D3C0E9747F04}|OOP2_MidtermPractice_2\\OOP2_MidtermPractice_2.csproj|solutionrelative:oop2_midtermpractice_2\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\Program.cs",
               "RelativeDocumentMoniker": "OOP2_MidtermPractice_2\\Classes\\Program.cs",
               "ToolTip": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\Program.cs",
               "RelativeToolTip": "OOP2_MidtermPractice_2\\Classes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T17:55:07.434Z",
               "IsPinned": true,
@@ -52,33 +52,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\Monster.cs",
               "RelativeDocumentMoniker": "OOP2_MidtermPractice_2\\Classes\\Monster.cs",
               "ToolTip": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\Monster.cs",
               "RelativeToolTip": "OOP2_MidtermPractice_2\\Classes\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T17:54:59.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Random2.cs",
-              "DocumentMoniker": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\Random2.cs",
-              "RelativeDocumentMoniker": "OOP2_MidtermPractice_2\\Classes\\Random2.cs",
-              "ToolTip": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\Random2.cs",
-              "RelativeToolTip": "OOP2_MidtermPractice_2\\Classes\\Random2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RandomGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\RandomGenerator.cs",
+              "RelativeDocumentMoniker": "OOP2_MidtermPractice_2\\Classes\\RandomGenerator.cs",
+              "ToolTip": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\RandomGenerator.cs",
+              "RelativeToolTip": "OOP2_MidtermPractice_2\\Classes\\RandomGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T01:13:43.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MonsterGenerator.cs",
               "DocumentMoniker": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\MonsterGenerator.cs",
               "RelativeDocumentMoniker": "OOP2_MidtermPractice_2\\Classes\\MonsterGenerator.cs",
@@ -91,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TextBox.cs",
               "DocumentMoniker": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\TextBox.cs",
               "RelativeDocumentMoniker": "OOP2_MidtermPractice_2\\Classes\\TextBox.cs",
               "ToolTip": "C:\\Users\\mega6_2zcsbcp\\Documents\\GitHub\\OOP2_MidtermPractice_2_2\\OOP2_MidtermPractice_2\\Classes\\TextBox.cs",
               "RelativeToolTip": "OOP2_MidtermPractice_2\\Classes\\TextBox.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T17:54:36.914Z",
               "EditorCaption": ""
