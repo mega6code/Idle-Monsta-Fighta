@@ -1,11 +1,14 @@
 ﻿namespace OOP2_MidtermPractice_2.Classes;
 
-class Program
+internal class Program
 {
+
 
     //not finished yet
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        MonsterGenerator.MakeNuggyat();
+
     }
+
 }
